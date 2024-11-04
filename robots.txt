@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyamaute.github.io/AXC/sitemap_index.txt
+Sitemap: https://eyamaute.github.io/LxP/sitemap_index.txt
+Sitemap: https://eyamaute.github.io/ONd/sitemap_index.txt
+Sitemap: https://eyamaute.github.io/sXw/sitemap_index.txt
